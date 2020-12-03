@@ -7,6 +7,6 @@ git clone git@github.com:taigasenren/settingsPy.git
 cd settingsPy
 python settings.py
 cd ..
-rm -r settingsPy
+rm -rf settingsPy
 ```
 
